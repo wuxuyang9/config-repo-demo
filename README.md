@@ -1,3 +1,7 @@
 # config-repo-demo
 
-test
+info:
+  profile: default
+  from: git1
+  
+test: bbb
