@@ -3,3 +3,6 @@ info:
   from: git1
   
 test: bbb
+
+
+spring.rabbitmq.host=localhost
